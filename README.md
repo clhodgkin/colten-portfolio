@@ -22,7 +22,7 @@ This portfolio highlights selected projects from school, independent development
 
 #### Overview
 
-Velometrics is an independent telemetry analytics project focused on creating speed maps and performance insights for karting and other motorsports applications. The project analyzes lap data to help visualize where drivers gain or lose time across a track.
+Velometrics is an independent telemetry analytics project focused on creating speed maps and performance insights for karting and other motorsports applications. The project analyzes lap data to help visualize where drivers gain or lose time across a track. Is used by a local karting team who competes at Track House Motorplex near Charlotte.
 
 #### Key Features
 
