@@ -169,8 +169,11 @@ This capstone project investigated the connections between Macro-Economic Variab
 #### Key Takeaways
 
 * Using boosting methods, and with the correct windows of time length used, crude oil shows a small, but significant, inverse relationship to 5 day S&P 500 returns. Other than this, Macro-Economic variables and Investor Sentiment, even when combined in different percentages or mixtures, are not able to be a reliable predictor of S&P 500 returns. 
-* Macro-Economic variables when combined have too much inherent noise to be certain as a short term predictor, even with advanced methods. Investor Sentiment is an inherently flawed data source when attempting to use as a predictor because it naturally follows the market and "overreacts" as well documented by other researchers on the topic. 
+* Macro-Economic variables when combined have too much inherent noise to be certain as a short term predictor, even with advanced methods. Investor Sentiment is an inherently flawed data source when attempting to use as a predictor because it naturally follows the market and "overreacts" as well documented by other researchers on the topic.
+
+
 * Trying different formulas, combinations of data, and methods to predict something specific while using specific data cannot work no matter the effort put forth if the data cannot be used for that specific purpose.
+* Boosting/Advanced methods change nothing if there is no relationship between data. Especially if the data does not inherently show what it is you are attempting to derive from the data.
 
 #### Future Improvements
 
