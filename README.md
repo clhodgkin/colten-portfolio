@@ -18,7 +18,7 @@ This portfolio highlights selected projects from school, independent development
 
 **Focus Areas:** Telemetry analytics, speed mapping, lap comparison, performance visualization
 
-**Technologies:** Python, Pandas, Matplotlib, SQL / SQLite, data visualization
+**Technologies:** Python, Pandas, Matplotlib, SQL / SQLite, Django, data visualization
 
 #### Overview
 
