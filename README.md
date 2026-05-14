@@ -15,7 +15,9 @@ This portfolio highlights selected projects from school, independent development
 ### 1. Velometrics — Motorsports Telemetry & Speed Mapping
 
 **Project Type:** Independent / Applied Data Science Project
+
 **Focus Areas:** Telemetry analytics, speed mapping, lap comparison, performance visualization
+
 **Technologies:** Python, Pandas, Matplotlib, SQL / SQLite, data visualization
 
 #### Overview
@@ -56,7 +58,9 @@ Velometrics is an independent telemetry analytics project focused on creating sp
 ### 2. Rush Hour Karting — Database & Web App Concept
 
 **Project Type:** Real-World Operational / Internal Tooling Project
+
 **Focus Areas:** Database design, operational tracking, web application planning, karting workflows
+
 **Technologies:** SQL, Python, web app concepts, database design, streamlit
 
 #### Overview
@@ -122,7 +126,9 @@ project-root/
 ### 3. Capstone Project — Predicting S&P 500 Returns with Macro Variables, Sentiment, and Boosting Models
 
 **Project Type:** Academic Capstone
+
 **Focus Areas:** Exploratory data analysis, predictive modeling, methodology comparison, data visualization
+
 **Technologies:** Python, Pandas, Scikit-learn, data visualization tools, statistical analysis
 
 #### Overview
